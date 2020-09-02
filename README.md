@@ -17,7 +17,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-## Contrast Adaptive Sharpening (CAS)
+## Contrast Adaptive Sharpening (CAS) 自适应对比度锐化
 
 Contrast Adaptive Sharpening (CAS) is a low overhead adaptive sharpening algorithm with optional up-sampling. The technique is developed by Timothy Lottes (creator of FXAA) and was created to provide natural sharpness without artifacts. This directory contains the source code for CAS as well as samples demonstrating the technique (with source). The directory structure is as follows:
 
